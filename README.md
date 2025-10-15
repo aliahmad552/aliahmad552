@@ -65,9 +65,21 @@ I build **machine learning, deep learning, and GenAI** applications that solve r
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAhmad&show_icons=true&theme=tokyonight" alt="Ali Ahmad's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAhmad&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmad&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=aliahmad552&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+       alt="Ali Ahmad's GitHub Stats" 
+       height="180px"/>
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmad552&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" 
+       height="180px"/>
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad552&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+       alt="Top Languages" 
+       height="180px"/>
 </p>
 
 ---
