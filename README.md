@@ -1,6 +1,6 @@
 <!-- 👋 Hi there! -->
 <h1 align="center">Hi there, I'm Ali Ahmad 👋</h1>
-<h3 align="center">🚀 Data Scientist | AI/ML Engineer | AI Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Data Scientist | AI/ML Engineer | AI Engineer 🇵🇰</h3>
 
 ---
 
